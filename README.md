@@ -49,6 +49,16 @@ Early research in indoor Scan-to-BIM focus on wearable platforms:
 - [EVALUATION OF A COMPACT HELMET-BASED LASER SCANNING SYSTEM FOR ABOVEGROUND AND UNDERGROUND 3D MAPPING (Li2022, 2022 24th ISPRS Congress)](http://doi.org/10.5194/isprs-archives-XLIII-B2-2022-215-2022)
 - [Map building using helmet-mounted LiDAR for micro-mobility (Yoshida2023, Artificial Life and Robotics)](http://doi.org/10.1007/s10015-022-00848-6)
 
+2.Backpack
+
+<img src="backpack.png" alt="Devices-Backpack" width="100"/>
+
+- [Backpack LiDAR-Based SLAM With Multiple Ground Constraints for Multistory Indoor Mapping (Zhou2023, IEEE Transactions on Geoscience and Remote Sensing)](http://doi.org/10.1109/TGRS.2023.3332916)
+- [KINECT BACKPACK FOR RAPID MOBILE INDOOR MAPPING (Bleier2022, 2022 24th ISPRS Congress)](http://doi.org/10.5194/isprs-annals-V-1-2022-121-2022)
+- [Semantic line framework-based indoor building modeling using backpacked laser scanning point cloud (Wang2018, ISPRS Journal of Photogrammetry and Remote Sensing)](http://doi.org/10.1016/j.isprsjprs.2018.03.025)
+
+
+
 
 ## Articles Related to Scan-to-BIM "Mobile Perception"
 
