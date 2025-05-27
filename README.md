@@ -39,7 +39,16 @@ Feel free to contribute by submitting issues or pull requests to keep this resou
 
 ## Articles Related to Scan-to-BIM "Devices"
 
+Early research in indoor Scan-to-BIM focus on wearable platforms:
+
+1.Helmet
+
 <img src="helmet.png" alt="Devices-Helmet" width="100"/>
+
+- [WHU-Helmet: A Helmet-Based Multisensor SLAM Dataset for the Evaluation of Real-Time 3-D Mapping in Large-Scale GNSS-Denied Environments (Li2023, IEEE Transactions on Geoscience and Remote Sensing)](http://doi.org/10.1109/TGRS.2023.3275307)
+- [EVALUATION OF A COMPACT HELMET-BASED LASER SCANNING SYSTEM FOR ABOVEGROUND AND UNDERGROUND 3D MAPPING (Li2022, 2022 24th ISPRS Congress)](http://doi.org/10.5194/isprs-archives-XLIII-B2-2022-215-2022)
+- [Map building using helmet-mounted LiDAR for micro-mobility (Yoshida2023, Artificial Life and Robotics)](http://doi.org/10.1007/s10015-022-00848-6)
+
 
 ## Articles Related to Scan-to-BIM "Mobile Perception"
 
