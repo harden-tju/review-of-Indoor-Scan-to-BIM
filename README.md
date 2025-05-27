@@ -77,11 +77,12 @@ As robotic platforms have emerged, wheeled scanning systems start to be used for
 - [Indoor mapping using low-cost MLS point clouds and architectural skeleton constraints (Luo2023, Automation in Construction)](http://doi.org/10.1016/j.autcon.2023.104837)
 - [BIM generation from 3D point clouds by combining 3D deep learning and improved morphological approach (Tang2022, Automation in Construction)](http://doi.org/10.1016/j.autcon.2022.104422)
 
+Moreover, quadruped robots integrated scan sensor have expanded the capabilities of Scan-to-BIM, especially for scenes with uneven terrains that demand high mobility and adaptability:
 
-## Articles Related to Scan-to-BIM "Mobile Perception"
+5.Quadruped Robots
 
+<img src="dog.png" alt="Devices-Quadruped Robots" width="100"/>
 
-
-
-## Articles Related to Scan-to-BIM "Scene Understanding"
-
+- [Automated reality capture for indoor inspection using BIM and a multi-sensor quadruped robot (Chen2024, Automation in Construction)](http://doi.org/10.1016/j.autcon.2024.105930)
+- [Semantic enrichment of BIM with IndoorGML for quadruped robot navigation and automated 3D scanning (Zhai2024, Automation in Construction)](http://doi.org/10.1016/j.autcon.2024.105605)
+- [A Hybrid-Dimensional Laser SLAM Framework for Indoor Quadruped Inspection Robots (Cheng2024, IEEE Sensors Journal)](http://doi.org/10.1109/JSEN.2024.3382336)
