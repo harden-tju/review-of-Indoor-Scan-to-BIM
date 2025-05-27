@@ -14,13 +14,13 @@ Feel free to contribute by submitting issues or pull requests to keep this resou
 
 ## Related Bechmark Datasets
 
-- SLABIM [Paper](http://doi.org/10.48550/arXiv.2502.16856) [Data Download](https://github.com/HKUST-Aerial-Robotics/SLABIM.git)
-- ISPRS Indoor Modelling Dataset [Paper](http://doi.org/10.5194/isprs-archives-XLIII-B5-2020-207-2020) [Data Download](https://dpv.uvigo.es/index.php/s/edzBCDDGkHjSWGC)
-- MiMAP [Paper](http://doi.org/10.5194/isprs-annals-V-5-2020-117-2020) [Data Download](https://dpv.uvigo.es/index.php/s/edzBCDDGkHjSWGC)
-- S3DIS [Paper](http://doi.org/10.1109/CVPR.2016.170) [Data Download](https://redivis.com/datasets/9q3m-9w5pa1a2h/files)
-- CRASLAB [Paper](http://doi.org/10.3390/data8060101) [Data Download](https://doi.org/10.5281/zenodo.7948116)
-- ScanNet [Paper](http://doi.org/10.1109/CVPR.2017.261) [Data Download](https://github.com/ScanNet/ScanNet)
-- FloorNet [Paper](http://doi.org/10.1007/978-3-030-01231-1_13) [Data Download](https://art-programmer.github.io/floornet.html)
+- SLABIM [[Paper]](http://doi.org/10.48550/arXiv.2502.16856) [[Data Download]](https://github.com/HKUST-Aerial-Robotics/SLABIM.git)
+- ISPRS Indoor Modelling Dataset [[Paper]](http://doi.org/10.5194/isprs-archives-XLIII-B5-2020-207-2020) [[Data Download]](https://dpv.uvigo.es/index.php/s/edzBCDDGkHjSWGC)
+- MiMAP [[Paper]](http://doi.org/10.5194/isprs-annals-V-5-2020-117-2020) [[Data Download]](https://dpv.uvigo.es/index.php/s/edzBCDDGkHjSWGC)
+- S3DIS [[Paper]](http://doi.org/10.1109/CVPR.2016.170) [[Data Download]](https://redivis.com/datasets/9q3m-9w5pa1a2h/files)
+- CRASLAB [[Paper]](http://doi.org/10.3390/data8060101) [[Data Download]](https://doi.org/10.5281/zenodo.7948116)
+- ScanNet [[Paper]](http://doi.org/10.1109/CVPR.2017.261) [[Data Download]](https://github.com/ScanNet/ScanNet)
+- FloorNet [[Paper]](http://doi.org/10.1007/978-3-030-01231-1_13) [[Data Download]](https://art-programmer.github.io/floornet.html)
 
 ## Related Review Articles
 
