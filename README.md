@@ -67,6 +67,15 @@ More recent studies have incorporated handheld platforms with different lightwei
 - [Use of Kinect Azure for BIM reconstruction: Establishment of an acquisition protocol, segmentation and 3D modeling (ElHaouss2022, 7th International Workshop on LowCost 3D - Sensors, Algorithms, Applications)](http://doi.org/10.5194/isprs-archives-XLVIII-2-W1-2022-87-2022)
 - [Indoor 3D reconstruction from point clouds for optimal routing in complex buildings to support disaster management (Nikoohemat2020, Automation in Construction)](http://doi.org/10.1016/j.autcon.2020.103109)
 
+As robotic platforms have emerged, wheeled scanning systems start to be used for autonomous data collection in larger or more challenging environments:
+
+4.Wheeled Robots
+
+<img src="wheeled.png" alt="Devices-Wheeled Robots" width="100"/>
+
+- [A Novel Approach for As-Built BIM Updating Using Inertial Measurement Unit and Mobile Laser Scanner (Yang2024, Remote Sensing)](http://doi.org/10.3390/rs16152743)
+- [Indoor mapping using low-cost MLS point clouds and architectural skeleton constraints (Luo2023, Automation in Construction)](http://doi.org/10.1016/j.autcon.2023.104837)
+- [BIM generation from 3D point clouds by combining 3D deep learning and improved morphological approach (Tang2022, Automation in Construction)](http://doi.org/10.1016/j.autcon.2022.104422)
 
 
 ## Articles Related to Scan-to-BIM "Mobile Perception"
