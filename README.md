@@ -39,7 +39,7 @@ Feel free to contribute by submitting issues or pull requests to keep this resou
 
 ## Articles Related to Scan-to-BIM "Devices"
 
-
+<img src="helmet.png" alt="Devices-Helmet" width="100"/>
 
 ## Articles Related to Scan-to-BIM "Mobile Perception"
 
