@@ -12,142 +12,39 @@ Contents include:
 
 Feel free to contribute by submitting issues or pull requests to keep this resource up-to-date.
 
-## Bechmark Datasets
+## Related Bechmark Datasets
 
-- [Technologies for digital twin applications in construction (Tuhaise2023)](http://doi.org/10.1016/j.autcon.2023.104931)
+- SLABIM [Paper](http://doi.org/10.48550/arXiv.2502.16856) [Data Download](https://github.com/HKUST-Aerial-Robotics/SLABIM.git)
+- ISPRS Indoor Modelling Dataset [Paper](http://doi.org/10.5194/isprs-archives-XLIII-B5-2020-207-2020) [Data Download](https://dpv.uvigo.es/index.php/s/edzBCDDGkHjSWGC)
+- MiMAP [Paper](http://doi.org/10.5194/isprs-annals-V-5-2020-117-2020) [Data Download](https://dpv.uvigo.es/index.php/s/edzBCDDGkHjSWGC)
+- S3DIS [Paper](http://doi.org/10.1109/CVPR.2016.170) [Data Download](https://redivis.com/datasets/9q3m-9w5pa1a2h/files)
+- CRASLAB [Paper](http://doi.org/10.3390/data8060101) [Data Download](https://doi.org/10.5281/zenodo.7948116)
+- ScanNet [Paper](http://doi.org/10.1109/CVPR.2017.261) [Data Download](https://github.com/ScanNet/ScanNet)
+- FloorNet [Paper](http://doi.org/10.1007/978-3-030-01231-1_13) [Data Download](https://art-programmer.github.io/floornet.html)
 
 ## Related Review Articles
 
-- [An experiment to assess the cost-benefits of code inspections in large scale software development (Porter, Siy, Toman & Votta, 1997)](http://laser.cs.umass.edu/courses/cs521-621.Fall10/documents/PorterSiyetal.pdf) Early paper that tested a range of then-current review techniques including multi-stage review and code-review-via-meeting that found you can get most of the benefit in an offline, single pass, with two reviewers.
-- [Anywhere, anytime code inspections: using the Web to remove inspection bottlenecks in large-scale software development (Perpich, Perry, Porter, Votta & Wade, 1997)](https://dl.acm.org/citation.cfm?id=253234) One day in the far future the best way to review code will be on the world wide web.
-- [Characteristics of Useful Code Reviews: An Empirical Study at Microsoft (Bosu, Greiler, Bird, 2015)](https://www.michaelagreiler.com/wp-content/uploads/2019/02/Characteristics-Of-Useful-Comments.pdf) This paper reports the findings of a large scale qualitative and quantitative study focusing on understanding which code review comments are considered useful by developers.
-- [Code Reviewing in the Trenches: Understanding Challenges, Best Practices, and Tool Needs (MacLeod, Greiler, Storey, Bird, Czerwonka, 2018)](https://www.michaelagreiler.com/wp-content/uploads/2019/03/Code-Reviewing-in-the-Trenches-Understanding-Challenges-Best-Practices-and-Tool-Needs.pdf) A large scale study of over 900 Microsoft developers to understand their code review processes, their motivations to do code reviews, and which pitfalls and best practices they encounter.
-- [Design and Code Inspections to Reduce Errors in Program Development (Fagan, 2002)](https://link.springer.com/chapter/10.1007/978-3-642-59412-0_35) Using a more formal process, particularly with defined roles for each participant and drive a big increase in error detection during review.
-- [Helping Developers Help Themselves: Automatic Decomposition of Code Review Changes (Barnett et al. 2015)](http://research.microsoft.com/pubs/238937/barnett2015hdh.pdf) ([summary on the morning paper](https://blog.acolyer.org/2015/06/26/helping-developers-help-themselves-automatic-decomposition-of-code-review-changes/)) Research into automatically splitting big diffs into smaller diffs leading to better reviews.
-- [Modern Code Review: A Case Study at Google](https://sback.it/publications/icse2018seip.pdf) A study that shows how code reviews work at Google.
-- [Work Practices and Challenges in Pull-Based Development (Gousios et al. 2015)](https://sback.it/publications/icse2016b.pdf) ([summary on the morning paper](https://blog.acolyer.org/2015/06/23/work-practices-and-challenges-in-pull-based-development/)) Field study of how GitHub pull requests are used in the wild.
+- [Autonomous Mobile Scanning Systems for the Digitization of Buildings: A Review (Adan2019, Remote Sensing)](http://doi.org/10.3390/rs11030306) This paper critically reviews autonomous scanning systems for 3D building modeling, analyzing key challenges such as data redundancy, occlusion, and autonomy, while comparing representative systems and highlighting future research directions.
+- [A Review of Techniques for 3D Reconstruction of Indoor Environments (Kang2020, ISPRS International Journal of Geo-Information)](http://doi.org/10.3390/ijgi9050330) This paper reviews state-of-the-art techniques for 3D indoor environment reconstruction, covering datasets, geometric/semantic/topological methods, key challenges, and future directions including deep learning-based multi-task approaches and indoor–outdoor integration.
+- [Linking Points With Labels in 3D: A Review of Point Cloud Semantic Segmentation (Xie2020, IEEE Geoscience and Remote Sensing Magazine)](http://doi.org/10.1109/MGRS.2019.2937630) Ripe with possibilities offered by deep-learning techniques and useful in applications related to remote sensing, computer vision, and robotics, 3D point cloud semantic segmentation (PCSS) and point cloud segmentation (PCS) are attracting increasing interest. This article summarizes available data sets and relevant studies on recent developments in PCSS and PCS.
+- [Procedural Point Cloud Modelling in Scan-to-BIM and Scan-vs-BIM Applications: A Review (Abreu2023, ISPRS International Journal of Geo-Information)](http://doi.org/10.3390/ijgi12070260) This paper reviews recent point cloud processing techniques in AEC applications, highlighting shared workflows, key challenges like occlusion and data planning gaps, and emphasizing the need for better benchmarking and deep learning integration in Scan-to-BIM and Scan-vs-BIM.
+- [Indoor Positioning Systems of Mobile Robots: A Review (Huang2023, Robotics)](http://doi.org/10.3390/robotics12020047) This paper reviews 147 studies from 2019 to 2021 on indoor localization for mobile robots, compares 12 mainstream positioning methods, and analyzes common patterns and trends in recent research.
+- [Technologies for digital twin applications in construction (Tuhaise2023, Automation in Construction)](http://doi.org/10.1016/j.autcon.2023.104931) This paper presents a systematic review to identify key technologies enabling digital twins in construction, highlighting research gaps and future directions in data transmission, interoperability, integration, and visualization.
+- [Digital technologies in architecture, engineering, and construction (Brozovsky2024, Automation in Construction)](http://doi.org/10.1016/j.autcon.2023.105212) This paper presents a quantitative scoping review of 3950 studies to map digital technology adoption in the AEC sector, revealing BIM's dominance, emerging trends like IoT and 3D printing, geographic research hotspots, and the need for better education and industry collaboration.
+- [Comprehensive systematic review of information fusion methods in smart cities and urban environments (Fadhel2024, Information Fusion)](http://doi.org/10.1016/j.inffus.2024.102317) This paper conducts a comprehensive literature review on information fusion in smart cities, highlighting the role of machine learning and deep learning, key challenges, and ethical considerations, while identifying research directions to support intelligent urban development.
+- [3D LiDAR SLAM: A survey (Zhang2024, Photogrammetric Record)](http://doi.org/10.1111/phor.12497) This paper presents a comprehensive review of 3D LiDAR SLAM, addressing its key challenges, algorithmic advances, datasets, and evaluation metrics, while highlighting emerging trends such as multi-sensor fusion, event-based, and quantum SLAM to guide future research.
+- [A Review of Sensing Technologies for Indoor Autonomous Mobile Robots (Liu2024, Sensors)](http://doi.org/10.3390/s24041222) This paper reviews sensing technologies for indoor autonomous mobile robots, comparing single-sensor and multi-sensor approaches, introducing key algorithms, and discussing future trends and challenges in real-world applications.
+- [Mobile robot localization: Current challenges and future prospective (Ullah2024, Computer Science Review)](http://doi.org/10.1016/j.cosrev.2024.100651) This paper comprehensively reviews mobile robot localization (MRL) technologies within the context of the Intelligent Internet of Things (IIoT), covering intelligent architectures, localization methods, security concerns, and challenges in achieving robust indoor and outdoor navigation.
+- [Deep Learning on 3D Semantic Segmentation: A Detailed Review (Betsas2025, Remote Sensing)](http://doi.org/10.3390/rs17020298) This paper proposes a standardized taxonomy for 3D semantic segmentation (3DSS) deep learning methods, reviews over 400 approaches and datasets.
 
 ## Articles Related to Scan-to-BIM "Devices"
 
-- [8 Tips for Great Code Reviews](https://kellysutton.com/2018/10/08/8-tips-for-great-code-reviews.html) A few basic rules for a better code review process.
-- [A Better Code Review](https://www.giladpeleg.com/blog/better-code-review/) Decent set of patterns and anti-patterns for code reviews.
-- [A Zen Manifesto for Effective Code Reviews](https://medium.freecodecamp.org/a-zen-manifesto-for-effective-code-reviews-e30b5c95204a) Practical tips for the submitter and the reviewer to make effective code reviews.
-- [Brian Guthrie's Feature Branching Rant](https://twitter.com/bguthrie/status/937750796334174209) Twitter thread on the pros and cons of GitHub's open source first model with regards to "in-company" code review practice.
-- [Building an Inclusive Code Review Culture](https://blog.plaid.com/building-an-inclusive-code-review-culture/) Guidelines to help ensure a collaborative and learning culture
-- [Code Review: Create The Culture, Learn The Best Practices](https://codingsans.com/blog/code-review) Code review tips and best practices from tech leaders.
-- [Code Review Etiquette](https://css-tricks.com/code-review-etiquette/) A few tips helping with positive engagement on code review.
-- [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/) Some guidelines for giving and getting code reviews.
-- [Code Reviews: Just Do It](https://blog.codinghorror.com/code-reviews-just-do-it/) Seminal post advocating for peer review of software back in 2006.
-- [Code Reviews at Google are lightweight and fast](https://www.michaelagreiler.com/code-reviews-at-google/) Details on how code review best practices and processes work at Google.
-- [Code Review Review is the Manager's Job](https://hecate.co/blog/code-review-review-is-the-managers-job) Why management should ensure code review is done and done well.
-- [Comments During Code Reviews](https://medium.com/@otarutunde/comments-during-code-reviews-2cb7791e1ac7) Writing good comments during code reviews.
-- [Designing Awesome Code Reviews](https://medium.com/unpacking-trunk-club/designing-awesome-code-reviews-5a0d9cd867e3) Principles for actively designing a code review process.
-- [Effective Code Reviews Without the Pain](https://www.developer.com/tech/article.php/3579756/Effective-Code-Reviews-Without-the-Pain.htm) Another 2006 classic on how to effectively perform a code review.
-- [Feedback Ladders: How We Encode Code Reviews at Netlify](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/) Helpful framwork for reviewers to classify how actionable specific pieces of review feedback are.
-- [How Code Reviews work at Microsoft](https://www.michaelagreiler.com/code-reviews-at-microsoft-how-to-code-review-at-a-large-software-company/) A in-depth analysis on how the code review process looks like at Microsoft.
-- [How I review code](https://engineering.tumblr.com/post/170040992289/how-i-review-code) More personal advice on how to best review a pull request from an engineer at Tumblr.
-- [How to do a code review](https://google.github.io/eng-practices/review/reviewer/) A thorough description of how Google engineers do code reviews, from the Google's Engineering Practices documentation.
-- [How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/) Techniques that treat the code review as not only a technical process but a social one as well.
-- [Modern Code Reviews](https://rethought.se/research/modern-code-reviews/) Arguably belongs in academic paper, but it's a website giving an overview of evidence on code review by facet/context. Links off to a bunch of papers.
-- [On Code Review](https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c) Short article about tooling and personal elements of code review, from an ex-Facebook engineer.
-- [Pull Requests: How to Get and Give Good Feedback](https://kickstarter.engineering/pull-requests-how-to-get-and-give-good-feedback-f573469f0c44) Advice for both sides of the code review process, the reviewer and the reviewee.
-- [Ship Small Diffs](https://blog.skyliner.io/ship-small-diffs-741308bec0d1) Why it's better to review small changes rather than large ones.
-- [Stacked Pull Requests: Keeping GitHub Diffs Small](https://graysonkoonce.com/stacked-pull-requests-keeping-github-diffs-small/) A step-by-step process to split big PRs and increase review engagement.
-- [The Art of Humanizing Pull Requests](https://blog.usejournal.com/the-art-of-humanizing-pull-requests-prs-b520588eb345) Emoji rich guide to the human side of code review via pull requests.
-- [Towards Productive Technical Discussions](https://cate.blog/2018/07/03/towards-productive-technical-discussions/) Tactical questions and actions to push code review discussions into a more productive territory.
-- [Unlearning Toxic Behaviors in a Code Review Culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c) A how-to guide for pull requests via how-not-too.
-- [Why I changed the way I think about Code Quality](https://medium.freecodecamp.org/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68) Why code quality is about more than just the code.
+
 
 ## Articles Related to Scan-to-BIM "Mobile Perception"
 
-- [8 Tips for Great Code Reviews](https://kellysutton.com/2018/10/08/8-tips-for-great-code-reviews.html) A few basic rules for a better code review process.
-- [A Better Code Review](https://www.giladpeleg.com/blog/better-code-review/) Decent set of patterns and anti-patterns for code reviews.
-- [A Zen Manifesto for Effective Code Reviews](https://medium.freecodecamp.org/a-zen-manifesto-for-effective-code-reviews-e30b5c95204a) Practical tips for the submitter and the reviewer to make effective code reviews.
-- [Brian Guthrie's Feature Branching Rant](https://twitter.com/bguthrie/status/937750796334174209) Twitter thread on the pros and cons of GitHub's open source first model with regards to "in-company" code review practice.
-- [Building an Inclusive Code Review Culture](https://blog.plaid.com/building-an-inclusive-code-review-culture/) Guidelines to help ensure a collaborative and learning culture
-- [Code Review: Create The Culture, Learn The Best Practices](https://codingsans.com/blog/code-review) Code review tips and best practices from tech leaders.
-- [Code Review Etiquette](https://css-tricks.com/code-review-etiquette/) A few tips helping with positive engagement on code review.
-- [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/) Some guidelines for giving and getting code reviews.
-- [Code Reviews: Just Do It](https://blog.codinghorror.com/code-reviews-just-do-it/) Seminal post advocating for peer review of software back in 2006.
-- [Code Reviews at Google are lightweight and fast](https://www.michaelagreiler.com/code-reviews-at-google/) Details on how code review best practices and processes work at Google.
-- [Code Review Review is the Manager's Job](https://hecate.co/blog/code-review-review-is-the-managers-job) Why management should ensure code review is done and done well.
-- [Comments During Code Reviews](https://medium.com/@otarutunde/comments-during-code-reviews-2cb7791e1ac7) Writing good comments during code reviews.
-- [Designing Awesome Code Reviews](https://medium.com/unpacking-trunk-club/designing-awesome-code-reviews-5a0d9cd867e3) Principles for actively designing a code review process.
-- [Effective Code Reviews Without the Pain](https://www.developer.com/tech/article.php/3579756/Effective-Code-Reviews-Without-the-Pain.htm) Another 2006 classic on how to effectively perform a code review.
-- [Feedback Ladders: How We Encode Code Reviews at Netlify](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/) Helpful framwork for reviewers to classify how actionable specific pieces of review feedback are.
-- [How Code Reviews work at Microsoft](https://www.michaelagreiler.com/code-reviews-at-microsoft-how-to-code-review-at-a-large-software-company/) A in-depth analysis on how the code review process looks like at Microsoft.
-- [How I review code](https://engineering.tumblr.com/post/170040992289/how-i-review-code) More personal advice on how to best review a pull request from an engineer at Tumblr.
-- [How to do a code review](https://google.github.io/eng-practices/review/reviewer/) A thorough description of how Google engineers do code reviews, from the Google's Engineering Practices documentation.
-- [How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/) Techniques that treat the code review as not only a technical process but a social one as well.
-- [Modern Code Reviews](https://rethought.se/research/modern-code-reviews/) Arguably belongs in academic paper, but it's a website giving an overview of evidence on code review by facet/context. Links off to a bunch of papers.
-- [On Code Review](https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c) Short article about tooling and personal elements of code review, from an ex-Facebook engineer.
-- [Pull Requests: How to Get and Give Good Feedback](https://kickstarter.engineering/pull-requests-how-to-get-and-give-good-feedback-f573469f0c44) Advice for both sides of the code review process, the reviewer and the reviewee.
-- [Ship Small Diffs](https://blog.skyliner.io/ship-small-diffs-741308bec0d1) Why it's better to review small changes rather than large ones.
-- [Stacked Pull Requests: Keeping GitHub Diffs Small](https://graysonkoonce.com/stacked-pull-requests-keeping-github-diffs-small/) A step-by-step process to split big PRs and increase review engagement.
-- [The Art of Humanizing Pull Requests](https://blog.usejournal.com/the-art-of-humanizing-pull-requests-prs-b520588eb345) Emoji rich guide to the human side of code review via pull requests.
-- [Towards Productive Technical Discussions](https://cate.blog/2018/07/03/towards-productive-technical-discussions/) Tactical questions and actions to push code review discussions into a more productive territory.
-- [Unlearning Toxic Behaviors in a Code Review Culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c) A how-to guide for pull requests via how-not-too.
-- [Why I changed the way I think about Code Quality](https://medium.freecodecamp.org/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68) Why code quality is about more than just the code.
+
 
 
 ## Articles Related to Scan-to-BIM "Scene Understanding"
 
-- [8 Tips for Great Code Reviews](https://kellysutton.com/2018/10/08/8-tips-for-great-code-reviews.html) A few basic rules for a better code review process.
-- [A Better Code Review](https://www.giladpeleg.com/blog/better-code-review/) Decent set of patterns and anti-patterns for code reviews.
-- [A Zen Manifesto for Effective Code Reviews](https://medium.freecodecamp.org/a-zen-manifesto-for-effective-code-reviews-e30b5c95204a) Practical tips for the submitter and the reviewer to make effective code reviews.
-- [Brian Guthrie's Feature Branching Rant](https://twitter.com/bguthrie/status/937750796334174209) Twitter thread on the pros and cons of GitHub's open source first model with regards to "in-company" code review practice.
-- [Building an Inclusive Code Review Culture](https://blog.plaid.com/building-an-inclusive-code-review-culture/) Guidelines to help ensure a collaborative and learning culture
-- [Code Review: Create The Culture, Learn The Best Practices](https://codingsans.com/blog/code-review) Code review tips and best practices from tech leaders.
-- [Code Review Etiquette](https://css-tricks.com/code-review-etiquette/) A few tips helping with positive engagement on code review.
-- [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/) Some guidelines for giving and getting code reviews.
-- [Code Reviews: Just Do It](https://blog.codinghorror.com/code-reviews-just-do-it/) Seminal post advocating for peer review of software back in 2006.
-- [Code Reviews at Google are lightweight and fast](https://www.michaelagreiler.com/code-reviews-at-google/) Details on how code review best practices and processes work at Google.
-- [Code Review Review is the Manager's Job](https://hecate.co/blog/code-review-review-is-the-managers-job) Why management should ensure code review is done and done well.
-- [Comments During Code Reviews](https://medium.com/@otarutunde/comments-during-code-reviews-2cb7791e1ac7) Writing good comments during code reviews.
-- [Designing Awesome Code Reviews](https://medium.com/unpacking-trunk-club/designing-awesome-code-reviews-5a0d9cd867e3) Principles for actively designing a code review process.
-- [Effective Code Reviews Without the Pain](https://www.developer.com/tech/article.php/3579756/Effective-Code-Reviews-Without-the-Pain.htm) Another 2006 classic on how to effectively perform a code review.
-- [Feedback Ladders: How We Encode Code Reviews at Netlify](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/) Helpful framwork for reviewers to classify how actionable specific pieces of review feedback are.
-- [How Code Reviews work at Microsoft](https://www.michaelagreiler.com/code-reviews-at-microsoft-how-to-code-review-at-a-large-software-company/) A in-depth analysis on how the code review process looks like at Microsoft.
-- [How I review code](https://engineering.tumblr.com/post/170040992289/how-i-review-code) More personal advice on how to best review a pull request from an engineer at Tumblr.
-- [How to do a code review](https://google.github.io/eng-practices/review/reviewer/) A thorough description of how Google engineers do code reviews, from the Google's Engineering Practices documentation.
-- [How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/) Techniques that treat the code review as not only a technical process but a social one as well.
-- [Modern Code Reviews](https://rethought.se/research/modern-code-reviews/) Arguably belongs in academic paper, but it's a website giving an overview of evidence on code review by facet/context. Links off to a bunch of papers.
-- [On Code Review](https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c) Short article about tooling and personal elements of code review, from an ex-Facebook engineer.
-- [Pull Requests: How to Get and Give Good Feedback](https://kickstarter.engineering/pull-requests-how-to-get-and-give-good-feedback-f573469f0c44) Advice for both sides of the code review process, the reviewer and the reviewee.
-- [Ship Small Diffs](https://blog.skyliner.io/ship-small-diffs-741308bec0d1) Why it's better to review small changes rather than large ones.
-- [Stacked Pull Requests: Keeping GitHub Diffs Small](https://graysonkoonce.com/stacked-pull-requests-keeping-github-diffs-small/) A step-by-step process to split big PRs and increase review engagement.
-- [The Art of Humanizing Pull Requests](https://blog.usejournal.com/the-art-of-humanizing-pull-requests-prs-b520588eb345) Emoji rich guide to the human side of code review via pull requests.
-- [Towards Productive Technical Discussions](https://cate.blog/2018/07/03/towards-productive-technical-discussions/) Tactical questions and actions to push code review discussions into a more productive territory.
-- [Unlearning Toxic Behaviors in a Code Review Culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c) A how-to guide for pull requests via how-not-too.
-- [Why I changed the way I think about Code Quality](https://medium.freecodecamp.org/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68) Why code quality is about more than just the code.
-
-  ## Articles Related to Scan-to-BIM "Model Reconstruction"
-
-- [8 Tips for Great Code Reviews](https://kellysutton.com/2018/10/08/8-tips-for-great-code-reviews.html) A few basic rules for a better code review process.
-- [A Better Code Review](https://www.giladpeleg.com/blog/better-code-review/) Decent set of patterns and anti-patterns for code reviews.
-- [A Zen Manifesto for Effective Code Reviews](https://medium.freecodecamp.org/a-zen-manifesto-for-effective-code-reviews-e30b5c95204a) Practical tips for the submitter and the reviewer to make effective code reviews.
-- [Brian Guthrie's Feature Branching Rant](https://twitter.com/bguthrie/status/937750796334174209) Twitter thread on the pros and cons of GitHub's open source first model with regards to "in-company" code review practice.
-- [Building an Inclusive Code Review Culture](https://blog.plaid.com/building-an-inclusive-code-review-culture/) Guidelines to help ensure a collaborative and learning culture
-- [Code Review: Create The Culture, Learn The Best Practices](https://codingsans.com/blog/code-review) Code review tips and best practices from tech leaders.
-- [Code Review Etiquette](https://css-tricks.com/code-review-etiquette/) A few tips helping with positive engagement on code review.
-- [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/) Some guidelines for giving and getting code reviews.
-- [Code Reviews: Just Do It](https://blog.codinghorror.com/code-reviews-just-do-it/) Seminal post advocating for peer review of software back in 2006.
-- [Code Reviews at Google are lightweight and fast](https://www.michaelagreiler.com/code-reviews-at-google/) Details on how code review best practices and processes work at Google.
-- [Code Review Review is the Manager's Job](https://hecate.co/blog/code-review-review-is-the-managers-job) Why management should ensure code review is done and done well.
-- [Comments During Code Reviews](https://medium.com/@otarutunde/comments-during-code-reviews-2cb7791e1ac7) Writing good comments during code reviews.
-- [Designing Awesome Code Reviews](https://medium.com/unpacking-trunk-club/designing-awesome-code-reviews-5a0d9cd867e3) Principles for actively designing a code review process.
-- [Effective Code Reviews Without the Pain](https://www.developer.com/tech/article.php/3579756/Effective-Code-Reviews-Without-the-Pain.htm) Another 2006 classic on how to effectively perform a code review.
-- [Feedback Ladders: How We Encode Code Reviews at Netlify](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/) Helpful framwork for reviewers to classify how actionable specific pieces of review feedback are.
-- [How Code Reviews work at Microsoft](https://www.michaelagreiler.com/code-reviews-at-microsoft-how-to-code-review-at-a-large-software-company/) A in-depth analysis on how the code review process looks like at Microsoft.
-- [How I review code](https://engineering.tumblr.com/post/170040992289/how-i-review-code) More personal advice on how to best review a pull request from an engineer at Tumblr.
-- [How to do a code review](https://google.github.io/eng-practices/review/reviewer/) A thorough description of how Google engineers do code reviews, from the Google's Engineering Practices documentation.
-- [How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/) Techniques that treat the code review as not only a technical process but a social one as well.
-- [Modern Code Reviews](https://rethought.se/research/modern-code-reviews/) Arguably belongs in academic paper, but it's a website giving an overview of evidence on code review by facet/context. Links off to a bunch of papers.
-- [On Code Review](https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c) Short article about tooling and personal elements of code review, from an ex-Facebook engineer.
-- [Pull Requests: How to Get and Give Good Feedback](https://kickstarter.engineering/pull-requests-how-to-get-and-give-good-feedback-f573469f0c44) Advice for both sides of the code review process, the reviewer and the reviewee.
-- [Ship Small Diffs](https://blog.skyliner.io/ship-small-diffs-741308bec0d1) Why it's better to review small changes rather than large ones.
-- [Stacked Pull Requests: Keeping GitHub Diffs Small](https://graysonkoonce.com/stacked-pull-requests-keeping-github-diffs-small/) A step-by-step process to split big PRs and increase review engagement.
-- [The Art of Humanizing Pull Requests](https://blog.usejournal.com/the-art-of-humanizing-pull-requests-prs-b520588eb345) Emoji rich guide to the human side of code review via pull requests.
-- [Towards Productive Technical Discussions](https://cate.blog/2018/07/03/towards-productive-technical-discussions/) Tactical questions and actions to push code review discussions into a more productive territory.
-- [Unlearning Toxic Behaviors in a Code Review Culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c) A how-to guide for pull requests via how-not-too.
-- [Why I changed the way I think about Code Quality](https://medium.freecodecamp.org/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68) Why code quality is about more than just the code.
