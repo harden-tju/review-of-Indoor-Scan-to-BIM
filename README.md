@@ -14,15 +14,7 @@ Feel free to contribute by submitting issues or pull requests to keep this resou
 
 ## Bechmark Datasets
 
-- [Awesome Code Review ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-code-review-)
-- [Contents](#contents)
-- [Academic Papers](#academic-papers)
-- [Articles](#articles)
-- [Books](#books)
-- [Talks and Podcasts](#talks-and-podcasts)
-- [Tools](#tools)
-- [Contribute](#contribute)
-- [License](#license)
+- [Technologies for digital twin applications in construction (Tuhaise2023)](http://doi.org/10.1016/j.autcon.2023.104931)
 
 ## Related Review Articles
 
