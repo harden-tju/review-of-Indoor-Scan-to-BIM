@@ -1,4 +1,4 @@
-<img src="Pipeline of Indoor Scan-to-BIM.jpg" alt="Indoor Scan-to-BIM Review" width="600"/>
+<img src="Pipeline of Indoor Scan-to-BIM.jpg" alt="Indoor Scan-to-BIM Review" width="300"/>
 
 # Indoor Scan-to-BIM Review
 
