@@ -57,6 +57,15 @@ Early research in indoor Scan-to-BIM focus on wearable platforms:
 - [KINECT BACKPACK FOR RAPID MOBILE INDOOR MAPPING (Bleier2022, 2022 24th ISPRS Congress)](http://doi.org/10.5194/isprs-annals-V-1-2022-121-2022)
 - [Semantic line framework-based indoor building modeling using backpacked laser scanning point cloud (Wang2018, ISPRS Journal of Photogrammetry and Remote Sensing)](http://doi.org/10.1016/j.isprsjprs.2018.03.025)
 
+More recent studies have incorporated handheld platforms with different lightweight scan sensors:
+
+3.Handheld
+
+<img src="handheld.png" alt="Devices-Handheld" width="100"/>
+
+- [Santiago urban dataset SUD: Combination of Handheld and Mobile Laser Scanning point clouds (Gonzalez-Collazo2024, Expert Systems with Applications)](http://doi.org/10.1016/j.eswa.2023.121842)
+- [Use of Kinect Azure for BIM reconstruction: Establishment of an acquisition protocol, segmentation and 3D modeling (ElHaouss2022, 7th International Workshop on LowCost 3D - Sensors, Algorithms, Applications)](http://doi.org/10.5194/isprs-archives-XLVIII-2-W1-2022-87-2022)
+- [Indoor 3D reconstruction from point clouds for optimal routing in complex buildings to support disaster management (Nikoohemat2020, Automation in Construction)](http://doi.org/10.1016/j.autcon.2020.103109)
 
 
 
