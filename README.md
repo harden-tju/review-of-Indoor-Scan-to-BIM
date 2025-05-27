@@ -4,10 +4,10 @@
 
 This repository collects and organizes resources related to indoor Scan-to-BIM (Building Information Modeling), including academic papers, datasets, benchmark tools, and relevant project links. It aims to support researchers and practitioners in understanding, comparing, and developing Scan-to-BIM methods for complex indoor environments.
 Contents include:
->Curated list of key papers on indoor Scan-to-BIM techniques
->Publicly available datasets and their usage notes
->Benchmark results and evaluation tools
->Related open-source projects and useful links
+1. Curated list of key papers on indoor Scan-to-BIM techniques
+2. Publicly available datasets and their usage notes
+3. Benchmark results and evaluation tools
+4. Related open-source projects and useful links
 Feel free to contribute by submitting issues or pull requests to keep this resource up-to-date.
 
 ## Bechmark Datasets
