@@ -1,7 +1,5 @@
 # Indoor Scan-to-BIM Review
 
-<img src="Pipeline of Indoor Scan-to-BIM.jpg" alt="Indoor Scan-to-BIM Review" width="300"/>
-
 This repository collects and organizes resources related to indoor Scan-to-BIM (Building Information Modeling), including academic papers, datasets, benchmark tools, and relevant project links. It aims to support researchers and practitioners in understanding, comparing, and developing Scan-to-BIM methods for complex indoor environments.
 
 Contents include:
