@@ -84,3 +84,9 @@ Moreover, quadruped robots integrated scan sensor have expanded the capabilities
 - [Automated reality capture for indoor inspection using BIM and a multi-sensor quadruped robot (Chen2024, Automation in Construction)](http://doi.org/10.1016/j.autcon.2024.105930)
 - [Semantic enrichment of BIM with IndoorGML for quadruped robot navigation and automated 3D scanning (Zhai2024, Automation in Construction)](http://doi.org/10.1016/j.autcon.2024.105605)
 - [A Hybrid-Dimensional Laser SLAM Framework for Indoor Quadruped Inspection Robots (Cheng2024, IEEE Sensors Journal)](http://doi.org/10.1109/JSEN.2024.3382336)
+
+## Cross-Disciplinary Collaboration in Scan-to-BIM Research
+
+The Scan-to-BIM process has transcended its origins in civil engineering and architecture, now capturing significant attention from a diverse range of fields including geomatics, computer science, and artificial intelligence. This convergence has given rise to a host of interdisciplinary research streams, such as GeoBIM, which integrates geospatial data with BIM contexts, and AI-aided BIM, which leverages machine learning for automated object recognition and semantic enrichment. Despite this fertile ground for innovation, the intersection of these disciplines presents considerable challenges.
+
+- [Urban GeoBIM Construction by Integrating Semantic LiDAR Point Clouds With as-Designed BIM Models (Shao2024, IEEE Transactions on Geoscience and Remote Sensing)](http://doi.org/10.1109/TGRS.2024.3358370)
